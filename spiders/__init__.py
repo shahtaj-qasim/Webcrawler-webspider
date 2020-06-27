@@ -5,9 +5,9 @@
 
 # Crawler Implementation
 Note: Implementation for crawler can be found in:
-1. gadetector/gadetector/spiders/GASpider.py
-2. gadetector/gadetector/items.py
-3. gadetector/gadetector/plotting.py
+1. spiders/GASpider.py
+2. items.py
+3. plotting.py
 I used Scrapy Framework for crawling in Python3. A project was created using command:
         scrapy startproject gadetector
 After creating the project we need to generate a spider (named GASpider) using command:
